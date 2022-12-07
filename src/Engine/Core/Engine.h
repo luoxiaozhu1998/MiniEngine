@@ -14,7 +14,7 @@ namespace mini {
     public:
         explicit Engine(const std::string &name = "");
 
-        virtual ~Engine();
+        ~Engine();
 
         void Run();
 

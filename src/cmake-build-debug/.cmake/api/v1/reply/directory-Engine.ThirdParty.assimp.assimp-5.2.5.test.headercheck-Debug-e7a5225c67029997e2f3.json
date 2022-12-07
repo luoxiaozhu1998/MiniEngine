@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Engine/ThirdParty/assimp/assimp-5.2.5/test/headercheck",
+		"source" : "Engine/ThirdParty/assimp/assimp-5.2.5/test/headercheck"
+	}
+}

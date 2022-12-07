@@ -10,6 +10,9 @@ namespace mini{
 
     Engine::~Engine() = default;
 
+    void Engine::Initialize() {
+
+    }
     void Engine::Close() {
 
     }
@@ -21,9 +24,7 @@ namespace mini{
         }
     }
 
-    void Engine::Initialize() {
 
-    }
 
 }
 
